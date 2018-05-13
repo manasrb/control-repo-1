@@ -17,4 +17,4 @@ mod "puppetlabs/concat",      '2.1.0'
 #  :branch => 'docs_experiment'
 mod 'httpd',
    :git  => 'https://github.com/manasrb/httpd.git',
-   :ref => 'httpd'
+   :ref => 'dev'
