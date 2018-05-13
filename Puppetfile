@@ -15,6 +15,6 @@ mod "puppetlabs/concat",      '2.1.0'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
-mod 'httpd',
-   :git  => 'https://github.com/manasrb/httpd.git',
-   :branch => 'dev'
+#mod 'httpd',
+#   :git  => 'https://github.com/manasrb/httpd.git',
+#   :branch => 'dev'
